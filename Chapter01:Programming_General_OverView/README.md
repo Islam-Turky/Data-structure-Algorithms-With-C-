@@ -21,7 +21,7 @@ and reviews basic proof techniques.</p>
 
 ### 1.1 Exponents
 
-<p align="center">XA XB = XA+B
+<h4 align="center">XA XB = XA+B
 XA
 = XA−B
 XB
@@ -29,7 +29,7 @@ XB
 XN + XN = 2XN = X2N
 2N + 2N = 2N+1
 ### 1.2 Logarithms
-</p>
+</h4>
 
 ### 1.3 Series
 
