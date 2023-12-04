@@ -24,9 +24,11 @@ and reviews basic proof techniques.</p>
 
 ### 1.1 Exponents
 
-<div align="center">
-    <image src="https://github.com/Islam-Turky/Data-structure-Algorithms-With-C-/blob/c517c8b74ddfe45b4ea6f2c224f70feee9b67283/photos/exponents.png" />
-</div>
+1. #### $$ X^AX^B = X^{A+B} $$
+2. #### $$ {X^A \over X^B} = X^{A-B} $$
+3. #### $$ (X^A)^B = X^{AB} $$
+4. #### $$ X^N + X^N = 2X^N \ne X^2N $$
+5. #### $$ 2^N + 2^N = 2^{N+1} $$
 
 ### 1.2 Logarithms
 
@@ -34,63 +36,93 @@ and reviews basic proof techniques.</p>
 
 #### Definition :
 
-<div align="center">
-    <image src="https://github.com/Islam-Turky/Data-structure-Algorithms-With-C-/blob/74b7093d50ccf91793090e8c18861bdfe3920556/photos/log1.png" />
-</div>
+#### <p>$${X^A = B} \ \ if \ and \ only \ if \log_{X}B = A $$</p>
 
 ---
 
 #### Theorem :
 
-<div align="center">
-    <image src="https://github.com/Islam-Turky/Data-structure-Algorithms-With-C-/blob/74b7093d50ccf91793090e8c18861bdfe3920556/photos/log.png" />
-</div>
+#### <p>$$ \log*{A}B = {\log*{c}B \over \log\_{c}A}; \ A,B,C > 0, \ A \ne 1 $$</p>
 
 #### Proof :
 
-<div align="center">
-    <image src="https://github.com/Islam-Turky/Data-structure-Algorithms-With-C-/blob/74b7093d50ccf91793090e8c18861bdfe3920556/photos/log2.png" />
-</div>
+#### <p>$$Let\ X=\log_{C}B$$</p>
+
+#### <p>$$Y=\log_{C}A,$$</p>
+
+#### <p>$$and\ Z=\log_{A}B$$</p>
+
+#### <p>$$Then\ By\ The\ Definition\ Of\ Logarithms\ ,$$</p>
+
+#### <p>$$C^X = B,$$</p>
+
+#### <p>$$C^Y = A$$</p>
+
+#### <p>$$and\ A^Z = B$$</p>
+
+#### <p>$$Combining\ these\ three\ equalities\ yields$$</p>
+
+#### <p>$$B = C^X = (C^Y)^Z$$</p>
+
+#### <p>$$Therefore,\ X=YZ$$</p>
+
+#### <p>$$Which\ Implies,\ {Z=X \over Y}$$</p>
+
+#### <p>$$Proving\ The\ Theorem$$</p>
 
 ---
 
 #### Theorem :
 
-<div align="center">
-    <image src="https://github.com/Islam-Turky/Data-structure-Algorithms-With-C-/blob/74b7093d50ccf91793090e8c18861bdfe3920556/photos/log3.png" />
-</div>
+#### <p>$$ \log AB = {\log A + \log B}; \ A,B > 0 $$</p>
 
 #### Proof :
 
-<div align="center">
-    <image src="https://github.com/Islam-Turky/Data-structure-Algorithms-With-C-/blob/74b7093d50ccf91793090e8c18861bdfe3920556/photos/log4.png" />
-</div>
+#### <p>$$Let\ X=\log A$$</p>
+
+#### <p>$$Y=\log B,$$</p>
+
+#### <p>$$and\ Z=\log AB$$</p>
+
+#### <p>$$Then,\ assuming\ the\ default\ base\ of\ 2 ,$$</p>
+
+#### <p>$$2^X = A$$</p>
+
+#### <p>$$2^Y = B$$</p>
+
+#### <p>$$and\ 2^Z = AB$$</p>
+
+#### <p>$$Combining\ the\ last\ three\ equalities\ yields$$</p>
+
+#### <p>$$2^X2^Y = AB = 2^Z$$</p>
+
+#### <p>$$Therefore,\ X + Y = Z$$</p>
+
+#### <p>$$which\ Proves\ The\ Theorem$$</p>
 
 ---
 
-<div align="center">
-    <image src="https://github.com/Islam-Turky/Data-structure-Algorithms-With-C-/blob/74b7093d50ccf91793090e8c18861bdfe3920556/photos/log5.png" />
-</div>
+#### Some other useful formulas, which can all be derived in a similar manner, follow.
+
+1. #### <p>$$\log {A / B} = \log A - \log B $$</p>
+1. #### <p>$$\log {(A)}^B = B\log A$$</p>
+1. #### <p>$$\log X < X\ for\ all\ X > 0$$</p>
+
+#### <p>$$\log 1 = 0\ \ \ \ \ ,\log 2 = 1\ \ \ \ \ ,\log 1,024 = 10\ \ \ \ \ ,\log 1,048,576 = 20 $$</p>
 
 ### 1.3 Series
 
 #### <p align="center" >The easiest formulas to remember are</p>
 
-<div align="center">
-    <image src="https://github.com/Islam-Turky/Data-structure-Algorithms-With-C-/blob/ea85c24e2d3404c3d6547e3c16670d3e1986c27d/photos/series1.png" />
-</div>
+#### <p>$$ \sum\_{i=0}^N 2^i = 2^{N+1}-1 $$</p>
 
 #### <p align="center" >and the companion,</p>
 
-<div align="center">
-    <image src="https://github.com/Islam-Turky/Data-structure-Algorithms-With-C-/blob/ea85c24e2d3404c3d6547e3c16670d3e1986c27d/photos/series2.png" />
-</div>
+#### <p>$$ \sum\_{i=0}^N A^i = {A^{N+1} - 1 \over A - 1} $$</p>
 
-#### <p align="center" >In the latter formula, if 0 < A < 1, then</p>
+#### <p align="center" >In the latter formula, if $$ 0 < A < 1$$ , then</p>
 
-<div align="center">
-    <image src="https://github.com/Islam-Turky/Data-structure-Algorithms-With-C-/blob/ea85c24e2d3404c3d6547e3c16670d3e1986c27d/photos/series3.png" />
-</div>
+#### <p>$$ \sum\_{i=0}^N A^i \leq {1 \over A - 1} $$</p>
 
 #### <p>and as N tends to ∞, the sum approaches 1/(1 − A). These are the “geometric series” formulas. We can derive the last formula $$\sum_{i=0}^∞ A^i (0 < A < 1)$$ in the following manner. Let S be the sum. Then</p>
 
