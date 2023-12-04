@@ -138,13 +138,13 @@
 
 #### <p>We can use this same technique to compute $\sum_{i=1}^∞{i \over 2^i},$ a sum that occurs frequently.<br/> We write</p>
 
-#### <p>$$S = {1 \over 2} + {2 \over 2^2} + {3 \over 2^3} + {4 \over 2^4} +{5 \over 2^5} +\ ·\ ·\ · $$and multiply by 2, obtaining</p>
+#### <p>$$S = {1 \over 2} + {2 \over 2^2} + {3 \over 2^3} + {4 \over 2^4} +{5 \over 2^5} +\ ·\ ·\ · $$ and multiply by 2, obtaining</p>
 
-#### <p>$$2S = 1 + {2 \over 2} + {3 \over 2^2} + {4 \over 2^3} +{5 \over 2^4} + {6 \over 2^5}\ ·\ ·\ · $$Subtracting these two equations yields</p>
+#### <p>$$2S = 1 + {2 \over 2} + {3 \over 2^2} + {4 \over 2^3} +{5 \over 2^4} + {6 \over 2^5}\ ·\ ·\ · $$ Subtracting these two equations yields</p>
 
-#### <p>$$S = 1 + {1 \over 2} + {1 \over 2^2} + {1 \over 2^3} +{1 \over 2^4} + {1 \over 2^5}\ ·\ ·\ · $$Thus, S = 2.</p>
+#### <p>$$S = 1 + {1 \over 2} + {1 \over 2^2} + {1 \over 2^3} +{1 \over 2^4} + {1 \over 2^5}\ ·\ ·\ · $$ Thus, S = 2.</p>
 
-#### <p>Another type of common series in analysis is the arithmetic series. Any such series can be evaluated from the basic formula:$$\sum_{i=1}^N = {N(N+1) \over 2} ≈ {N^2 \over 2} $$</p>
+#### <p>Another type of common series in analysis is the arithmetic series. Any such series can be evaluated from the basic formula: $$\sum_{i=1}^N = {N(N+1) \over 2} ≈ {N^2 \over 2} $$</p>
 
 #### <p>For instance, to ﬁnd the sum 2 + 5 + 8 + · · · + (3k − 1), rewrite it as 3(1 + 2 + 3 +· · · + k) − (1 + 1 + 1 + · · · + 1), which is clearly 3k(k + 1)/2 − k. Another way to remember this is to add the ﬁrst and last terms (total 3k + 1), the second and next-to-last terms (total 3k + 1), and so on. Since there are k/2 of these pairs, the total sum is k(3k + 1)/2, which is the same answer as before.<br/>The next two formulas pop up now and then but are fairly uncommon.$$\sum_{i=1}^N = {N(N+1)(2N+1) \over 6} ≈ {N^3 \over 3}$$ $$\sum_{i=1}^Ni^K ≈ {N^{K+1} \over |K+1|} K \ne -1 $$</p>
 
@@ -154,7 +154,7 @@
 
 ### 1.4 Modular Arithmetic
 
-#### <p>We say that A is congruent to B modulo N, written A ≡ B (mod N), if N divides A − B. Intuitively, this means that the remainder is the same when either A or B is divided by N. Thus, 81 ≡ 61 ≡ 1 (mod 10). As with equality, if A ≡ B (mod N), then A + C ≡ B + C (mod N) and AD ≡ BD (mod N).<br/><br/><br/>Often, N is a prime number. In that case, there are three important theorems:<br/><br/>$\qquad$ First, if N is prime, then ab ≡ 0 (mod N) is true if and only if a ≡ 0 (mod N) or b ≡ 0 (mod N). In other words, if a prime number N divides a product of two numbers, it divides at least one of the two numbers. $\qquad$ Second, if N is prime, then the equation ax ≡ 1 (mod N) has a unique solution (mod N) for all 0 < a < N. This solution, 0 < x < N, is the multiplicative inverse. $\qquad$ Third, if N is prime, then the equation x2 ≡ a (mod N) has either two solutions (mod N) for all 0 < a < N, or it has no solutions<br/><br/>$\qquad$ There are many theorems that apply to modular arithmetic, and some of them require extraordinary proofs in number theory. We will use modular arithmetic sparingly, and the preceding theorems will sufﬁce.</p>
+#### <p>We say that A is congruent to B modulo N, written A ≡ B (mod N), if N divides A − B. Intuitively, this means that the remainder is the same when either A or B is divided by N. Thus, 81 ≡ 61 ≡ 1 (mod 10). As with equality, if A ≡ B (mod N), then A + C ≡ B + C (mod N) and AD ≡ BD (mod N).<br/><br/><br/>Often, N is a prime number. In that case, there are three important theorems:<br/><br/>$\qquad$ First, if N is prime, then ab ≡ 0 (mod N) is true if and only if a ≡ 0 (mod N) or b ≡ 0 (mod N). In other words, if a prime number N divides a product of two numbers, it divides at least one of the two numbers.<br/> $\qquad$ Second, if N is prime, then the equation ax ≡ 1 (mod N) has a unique solution (mod N) for all 0 < a < N. This solution, 0 < x < N, is the multiplicative inverse.<br/> $\qquad$ Third, if N is prime, then the equation x2 ≡ a (mod N) has either two solutions (mod N) for all 0 < a < N, or it has no solutions<br/><br/>$\qquad$ There are many theorems that apply to modular arithmetic, and some of them require extraordinary proofs in number theory. We will use modular arithmetic sparingly, and the preceding theorems will sufﬁce.</p>
 
 ### 1.5 The P Word
 
