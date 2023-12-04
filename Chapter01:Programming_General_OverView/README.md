@@ -22,15 +22,15 @@
 
 ### 1.1 Exponents
 
-1. #### <p>$\ X^AX^B = X^{A+B} $</p>
+1. ### <p>$\ X^AX^B = X^{A+B} $</p>
 
-2. #### <p>$\ {X^A \over X^B} = X^{A-B} $</p>
+2. ### <p>$\ {X^A \over X^B} = X^{A-B} $</p>
 
-3. #### <p>$\ (X^A)^B = X^{AB} $</p>
+3. ### <p>$\ (X^A)^B = X^{AB} $</p>
 
-4. #### <p>$\ X^N + X^N = 2X^N \ne X^2N $</p>
+4. ### <p>$\ X^N + X^N = 2X^N \ne X^2N $</p>
 
-5. #### <p>$\ 2^N + 2^N = 2^{N+1} $</p>
+5. ### <p>$\ 2^N + 2^N = 2^{N+1} $</p>
 
 ### 1.2 Logarithms
 
@@ -38,69 +38,69 @@
 
 #### Definition :
 
-#### <p>$${X^A = B} \ \ if \ and \ only \ if \log_{X}B = A $$</p>
+### <p>$${X^A = B} \ \ if \ and \ only \ if \log_{X}B = A $$</p>
 
 ---
 
 #### Theorem :
 
-#### <p>$\ \log_AB = {\log {c}B \over \log_cA}; \ A,B,C > 0, \ A \ne 1 $</p>
+### <p>$\ \log_AB = {\log {c}B \over \log_cA}; \ A,B,C > 0, \ A \ne 1 $</p>
 
 #### Proof :
 
-#### <p>$$Let\ X=\log_{C}B$$</p>
+### <p>$$Let\ X=\log_{C}B$$</p>
 
-#### <p>$$Y=\log_{C}A,$$</p>
+### <p>$$Y=\log_{C}A,$$</p>
 
-#### <p>$$and\ Z=\log_{A}B$$</p>
+### <p>$$and\ Z=\log_{A}B$$</p>
 
-#### <p>$$Then\ By\ The\ Definition\ Of\ Logarithms\ ,$$</p>
+### <p>$$Then\ By\ The\ Definition\ Of\ Logarithms\ ,$$</p>
 
-#### <p>$$C^X = B,$$</p>
+### <p>$$C^X = B,$$</p>
 
-#### <p>$$C^Y = A$$</p>
+### <p>$$C^Y = A$$</p>
 
-#### <p>$$and\ A^Z = B$$</p>
+### <p>$$and\ A^Z = B$$</p>
 
-#### <p>$$Combining\ these\ three\ equalities\ yields$$</p>
+### <p>$$Combining\ these\ three\ equalities\ yields$$</p>
 
-#### <p>$$B = C^X = (C^Y)^Z$$</p>
+### <p>$$B = C^X = (C^Y)^Z$$</p>
 
-#### <p>$$Therefore,\ X=YZ$$</p>
+### <p>$$Therefore,\ X=YZ$$</p>
 
-#### <p>$$Which\ Implies,\ {Z=X \over Y}$$</p>
+### <p>$$Which\ Implies,\ {Z=X \over Y}$$</p>
 
-#### <p>$$Proving\ The\ Theorem$$</p>
+### <p>$$Proving\ The\ Theorem$$</p>
 
 ---
 
 #### Theorem :
 
-#### <p>$\ \log AB = {\log A + \log B}; \ A,B > 0 $</p>
+### <p>$\ \log AB = {\log A + \log B}; \ A,B > 0 $</p>
 
 #### Proof :
 
-#### <p>$$Let\ X=\log A$$</p>
+### <p>$$Let\ X=\log A$$</p>
 
-#### <p>$$Y=\log B,$$</p>
+### <p>$$Y=\log B,$$</p>
 
-#### <p>$$and\ Z=\log AB$$</p>
+### <p>$$and\ Z=\log AB$$</p>
 
-#### <p>$$Then,\ assuming\ the\ default\ base\ of\ 2 ,$$</p>
+### <p>$$Then,\ assuming\ the\ default\ base\ of\ 2 ,$$</p>
 
-#### <p>$$2^X = A$$</p>
+### <p>$$2^X = A$$</p>
 
-#### <p>$$2^Y = B$$</p>
+### <p>$$2^Y = B$$</p>
 
-#### <p>$$and\ 2^Z = AB$$</p>
+### <p>$$and\ 2^Z = AB$$</p>
 
-#### <p>$$Combining\ the\ last\ three\ equalities\ yields$$</p>
+### <p>$$Combining\ the\ last\ three\ equalities\ yields$$</p>
 
-#### <p>$$2^X2^Y = AB = 2^Z$$</p>
+### <p>$$2^X2^Y = AB = 2^Z$$</p>
 
-#### <p>$$Therefore,\ X + Y = Z$$</p>
+### <p>$$Therefore,\ X + Y = Z$$</p>
 
-#### <p>$$which\ Proves\ The\ Theorem$$</p>
+### <p>$$which\ Proves\ The\ Theorem$$</p>
 
 ---
 
