@@ -1,6 +1,6 @@
 <h1 align="center" >Chapter 1 : Programming General Overview</h1>
 
-# Contents
+# Contents :
 
 ### 1. Mathematical Review
 
@@ -14,7 +14,9 @@
 
 ### 6. Using Matrices
 
-<h2 align="center" >1. Mathematical Review</h2>
+---
+
+<h1 align="center" >1. Mathematical Review</h1>
 
 <p align="center" >This section lists some of the basic formulas you need to memorize, or be able to derive,
 and reviews basic proof techniques.</p>
@@ -75,12 +77,12 @@ and reviews basic proof techniques.</p>
 
 ### 1.5 The P Word
 
-<h2 align="center" >2. Brief Introduction to Recursion</h2>
+<h1 align="center" >2. Brief Introduction to Recursion</h1>
 
-<h2 align="center" >3. Classes</h2>
+<h1 align="center" >3. Classes</h1>
 
-<h2 align="center" >4. Details</h2>
+<h1 align="center" >4. Details</h1>
 
-<h2 align="center" >5. Templates</h2>
+<h1 align="center" >5. Templates</h1>
 
-<h2 align="center" >6. Using Matrices</h2>
+<h1 align="center" >6. Using Matrices</h1>
