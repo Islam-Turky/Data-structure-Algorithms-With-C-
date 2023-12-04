@@ -106,25 +106,25 @@
 
 #### Some other useful formulas, which can all be derived in a similar manner, follow.
 
-1. #### <p>$$\log {A / B} = \log A - \log B $$</p>
-1. #### <p>$$\log {(A)}^B = B\log A$$</p>
-1. #### <p>$$\log X < X\ for\ all\ X > 0$$</p>
+1. ### <p>$$\log {A / B} = \log A - \log B $$</p>
+1. ### <p>$$\log {(A)}^B = B\log A$$</p>
+1. ### <p>$$\log X < X\ for\ all\ X > 0$$</p>
 
-#### <p>$$\log 1 = 0\ \ \ \ \ ,\log 2 = 1\ \ \ \ \ ,\log 1,024 = 10\ \ \ \ \ ,\log 1,048,576 = 20 $$</p>
+### <p>$$\log 1 = 0\ \ \ \ \ ,\log 2 = 1\ \ \ \ \ ,\log 1,024 = 10\ \ \ \ \ ,\log 1,048,576 = 20 $$</p>
 
 ### 1.3 Series
 
 #### <p align="center" >The easiest formulas to remember are</p>
 
-#### <p>$$ \sum\_{i=0}^N 2^i = 2^{N+1}-1 $$</p>
+### <p>$$ \sum\_{i=0}^N 2^i = 2^{N+1}-1 $$</p>
 
 #### <p align="center" >and the companion,</p>
 
-#### <p>$$ \sum\_{i=0}^N A^i = {A^{N+1} - 1 \over A - 1} $$</p>
+### <p>$$ \sum\_{i=0}^N A^i = {A^{N+1} - 1 \over A - 1} $$</p>
 
-#### <p align="center" >In the latter formula, if $$ 0 < A < 1$$ , then</p>
+### <p align="center" >In the latter formula, if $$ 0 < A < 1$$ , then</p>
 
-#### <p>$$ \sum\_{i=0}^N A^i \leq {1 \over A - 1} $$</p>
+### <p>$$ \sum\_{i=0}^N A^i \leq {1 \over A - 1} $$</p>
 
 #### <p>and as N tends to ∞, the sum approaches 1/(1 − A). These are the “geometric series” formulas. We can derive the last formula $$\sum_{i=0}^∞ A^i (0 < A < 1)$$ in the following manner. Let S be the sum. Then</p>
 
