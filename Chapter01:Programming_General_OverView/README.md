@@ -25,10 +25,10 @@ and reviews basic proof techniques.</p>
 ### 1.1 Exponents
 
 1. #### <p>$$ X^AX^B = X^{A+B} $$</p>
-2. #### $$ {X^A \over X^B} = X^{A-B} $$
-3. #### $$ (X^A)^B = X^{AB} $$
-4. #### $$ X^N + X^N = 2X^N \ne X^2N $$
-5. #### $$ 2^N + 2^N = 2^{N+1} $$
+2. #### <p>$$ {X^A \over X^B} = X^{A-B} $$</p>
+3. #### <p>$$ (X^A)^B = X^{AB} $$</p>
+4. #### <p>$$ X^N + X^N = 2X^N \ne X^2N $$</p>
+5. #### <p>$$ 2^N + 2^N = 2^{N+1} $$</p>
 
 ### 1.2 Logarithms
 
@@ -42,7 +42,7 @@ and reviews basic proof techniques.</p>
 
 #### Theorem :
 
-#### <p>$$ \log*{A}B = {\log*{c}B \over \log\_{c}A}; \ A,B,C > 0, \ A \ne 1 $$</p>
+#### <p>$$ \log_AB = {\log {c}B \over \log_cA}; \ A,B,C > 0, \ A \ne 1 $$</p>
 
 #### Proof :
 
