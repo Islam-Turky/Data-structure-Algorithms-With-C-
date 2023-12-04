@@ -22,14 +22,15 @@ and reviews basic proof techniques.</p>
 ### 1.1 Exponents
 
 <h4 align="center">XA XB = XA+B
-XA
+X^A
 = XA−B
 XB
 (XA )B = XAB
 XN + XN = 2XN = X2N
 2N + 2N = 2N+1
-### 1.2 Logarithms
 </h4>
+
+### 1.2 Logarithms
 
 ### 1.3 Series
 
