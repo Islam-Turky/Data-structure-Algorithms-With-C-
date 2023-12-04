@@ -116,15 +116,15 @@
 
 #### <p align="center" >The easiest formulas to remember are</p>
 
-### <p>$$ \sum\_{i=0}^N 2^i = 2^{N+1}-1 $$</p>
+### <p>$$\sum_{i=0}^N 2^i = 2^{N+1}-1$$</p>
 
 #### <p align="center" >and the companion,</p>
 
-### <p>$$ \sum\_{i=0}^N A^i = {A^{N+1} - 1 \over A - 1} $$</p>
+### <p>$$\sum_{i=0}^N A^i = {A^{N+1} - 1 \over A - 1}$$</p>
 
-### <p align="center" >In the latter formula, if $$ 0 < A < 1$$ , then</p>
+### <p align="center" >In the latter formula, if $$0 < A < 1$$ , then</p>
 
-### <p>$$ \sum\_{i=0}^N A^i \leq {1 \over A - 1} $$</p>
+### <p>$$\sum_{i=0}^N A^i \leq {1 \over A - 1} $$</p>
 
 #### <p>and as N tends to ∞, the sum approaches 1/(1 − A). These are the “geometric series” formulas. We can derive the last formula $$\sum_{i=0}^∞ A^i (0 < A < 1)$$ in the following manner. Let S be the sum. Then</p>
 
