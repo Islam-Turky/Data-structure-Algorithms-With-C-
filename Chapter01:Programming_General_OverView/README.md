@@ -21,14 +21,9 @@ and reviews basic proof techniques.</p>
 
 ### 1.1 Exponents
 
-<h4 align="center">XA XB = XA+B
-X^A
-= XA−B
-XB
-(XA )B = XAB
-XN + XN = 2XN = X2N
-2N + 2N = 2N+1
-</h4>
+<div align="center">
+    <image src="https://github.com/Islam-Turky/Data-structure-Algorithms-With-C-/blob/c517c8b74ddfe45b4ea6f2c224f70feee9b67283/photos/exponents.png" />
+</div>
 
 ### 1.2 Logarithms
 
