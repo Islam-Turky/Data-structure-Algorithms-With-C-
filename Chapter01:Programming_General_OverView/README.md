@@ -44,7 +44,7 @@
 
 #### Theorem :
 
-#### <p>$$ \log_AB = {\log {c}B \over \log_cA}; \ A,B,C > 0, \ A \ne 1 $$</p>
+#### <p>$\ \log_AB = {\log {c}B \over \log_cA}; \ A,B,C > 0, \ A \ne 1 $</p>
 
 #### Proof :
 
@@ -76,7 +76,7 @@
 
 #### Theorem :
 
-#### <p>$$ \log AB = {\log A + \log B}; \ A,B > 0 $$</p>
+#### <p>$\ \log AB = {\log A + \log B}; \ A,B > 0 $</p>
 
 #### Proof :
 
