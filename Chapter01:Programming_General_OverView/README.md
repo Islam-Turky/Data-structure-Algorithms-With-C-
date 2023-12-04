@@ -92,7 +92,7 @@ and reviews basic proof techniques.</p>
     <image src="https://github.com/Islam-Turky/Data-structure-Algorithms-With-C-/blob/ea85c24e2d3404c3d6547e3c16670d3e1986c27d/photos/series3.png" />
 </div>
 
-#### <p>and as N tends to ∞, the sum approaches 1/(1 − A). These are the “geometric series” formulas. We can derive the last formula <image src = "https://github.com/Islam-Turky/Data-structure-Algorithms-With-C-/blob/c7355735a08c12adcb08902ef57a43b11b648f07/photos/series4.png" /> in the following manner. Let S be the sum. Then</p>
+#### <p>and as N tends to ∞, the sum approaches 1/(1 − A). These are the “geometric series” formulas. We can derive the last formula $$\sum_{i=0}^∞ A^i (0 < A < 1)$$ in the following manner. Let S be the sum. Then</p>
 
 #### <p align="center">S = 1 + A + A2 + A3 + A4 + A5 + · · ·</p>
 
