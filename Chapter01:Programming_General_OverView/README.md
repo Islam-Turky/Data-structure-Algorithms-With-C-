@@ -25,9 +25,13 @@ and reviews basic proof techniques.</p>
 ### 1.1 Exponents
 
 1. #### <p>$$ X^AX^B = X^{A+B} $$</p>
+
 2. #### <p>$$ {X^A \over X^B} = X^{A-B} $$</p>
+
 3. #### <p>$$ (X^A)^B = X^{AB} $$</p>
+
 4. #### <p>$$ X^N + X^N = 2X^N \ne X^2N $$</p>
+
 5. #### <p>$$ 2^N + 2^N = 2^{N+1} $$</p>
 
 ### 1.2 Logarithms
