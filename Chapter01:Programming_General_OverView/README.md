@@ -18,7 +18,8 @@
 
 <h1 align="center" >1. Mathematical Review</h1>
 
-<p align="center" >This section lists some of the basic formulas you need to memorize, or be able to derive,
+#### <p align="center" >This section lists some of the basic formulas you need to memorize, or be able to derive,
+
 and reviews basic proof techniques.</p>
 
 ### 1.1 Exponents
@@ -72,6 +73,32 @@ and reviews basic proof techniques.</p>
 </div>
 
 ### 1.3 Series
+
+#### <p align="center" >The easiest formulas to remember are</p>
+
+<div align="center">
+    <image src="https://github.com/Islam-Turky/Data-structure-Algorithms-With-C-/blob/ea85c24e2d3404c3d6547e3c16670d3e1986c27d/photos/series1.png" />
+</div>
+
+#### <p align="center" >and the companion,</p>
+
+<div align="center">
+    <image src="https://github.com/Islam-Turky/Data-structure-Algorithms-With-C-/blob/ea85c24e2d3404c3d6547e3c16670d3e1986c27d/photos/series2.png" />
+</div>
+
+#### <p align="center" >In the latter formula, if 0 < A < 1, then</p>
+
+<div align="center">
+    <image src="https://github.com/Islam-Turky/Data-structure-Algorithms-With-C-/blob/ea85c24e2d3404c3d6547e3c16670d3e1986c27d/photos/series3.png" />
+</div>
+
+#### <p>and as N tends to ∞, the sum approaches 1/(1 − A). These are the “geometric series” formulas. We can derive the last formula <image src = "https://github.com/Islam-Turky/Data-structure-Algorithms-With-C-/blob/c7355735a08c12adcb08902ef57a43b11b648f07/photos/series4.png" /> in the following manner. Let S be the sum. Then</p>
+
+#### <p align="center">S = 1 + A + A2 + A3 + A4 + A5 + · · ·</p>
+
+#### Then
+
+#### <p align="center">AS = A + A2 + A3 + A4 + A5 + · · ·</p>
 
 ### 1.4 Modular Arithmetic
 
