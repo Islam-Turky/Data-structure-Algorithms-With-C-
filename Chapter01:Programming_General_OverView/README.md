@@ -24,7 +24,7 @@ and reviews basic proof techniques.</p>
 
 ### 1.1 Exponents
 
-1. #### $$ X^AX^B = X^{A+B} $$
+1. $$ X^AX^B = X^{A+B} $$
 2. #### $$ {X^A \over X^B} = X^{A-B} $$
 3. #### $$ (X^A)^B = X^{AB} $$
 4. #### $$ X^N + X^N = 2X^N \ne X^2N $$
