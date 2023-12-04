@@ -18,9 +18,7 @@
 
 <h1 align="center" >1. Mathematical Review</h1>
 
-#### <p align="center" >This section lists some of the basic formulas you need to memorize, or be able to derive,
-
-and reviews basic proof techniques.</p>
+#### <p align="center" >This section lists some of the basic formulas you need to memorize, or be able to derive, and reviews basic proof techniques.</p>
 
 ### 1.1 Exponents
 
