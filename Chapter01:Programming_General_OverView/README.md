@@ -35,6 +35,8 @@ and reviews basic proof techniques.</p>
     <image src="https://github.com/Islam-Turky/Data-structure-Algorithms-With-C-/blob/74b7093d50ccf91793090e8c18861bdfe3920556/photos/log1.png" />
 </div>
 
+---
+
 #### Theorem :
 
 <div align="center">
